@@ -1,2 +1,2 @@
 # Angular
-Learning Angular
+Angular Project 1
